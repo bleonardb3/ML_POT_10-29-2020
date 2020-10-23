@@ -11,5 +11,5 @@ Upon completing the lab, you will have:
 
 ### Step 1. Please click on the link below to download the instructions to your machine.
 
-[Instructions](https://github.com/bleonardb3/ML_POT_07-23-2020/raw/master/Lab-1/SetupEnvironmentv7.2.pdf).
+[Instructions](https://github.com/bleonardb3/ML_POT_10-29-2020/raw/master/Lab-1/SetupEnvironmentv7.2.pdf).
 
